@@ -1,0 +1,6 @@
+framework module Pods_GameTest212 {
+  umbrella header "Pods-GameTest212-umbrella.h"
+
+  export *
+  module * { export * }
+}
